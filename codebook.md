@@ -4,7 +4,7 @@ These are the main improvements on the raw data provided in the course:
 
 * The trained and the test records have been merged in one single data frame
 
-* The data frame has now a column specifying the subject id and the descriptive 
+* The data frame has now a column specifying the subject id and another specifying the descriptive 
 name of the activity (a merge/join of different data sets have been produced)
 
 * Among the numerical features, only the ones related to a standard deviation or to a mean have been selected
