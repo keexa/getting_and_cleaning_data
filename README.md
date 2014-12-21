@@ -9,7 +9,7 @@ This script has been tested using `RStudio`, please try with it.
 
 * Open the downloaded zip file and place the directory `UCI HAR Dataset` where you want.
 
-* When you are in RStudio, please remember to get into the directory you have unzipped the file so that my script is read properly, give a `setwd(YOUR_DIRECTORY)` in that case.
+* When you are in RStudio, please remember to get into the directory you have unzipped the file so that my script is read properly, give a `setwd(YOUR_DIRECTORY)` in that case. The script assumes that you have put the `UCI HAR Dataset` directory in `~/Desktop`
 
 * Download the script [`run_analysis.R`](https://github.com/keexa/getting_and_cleaning_data/blob/master/run_analysis.R) from this git repository
 
