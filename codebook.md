@@ -9,7 +9,7 @@ name of the activity (a merge/join of different data sets have been produced)
 
 * Among the numerical features, only the ones related to a standard deviation or to a mean have been selected
 
-Here is the list of the filtered data frame after these steps
+Here is the list of the filtered features of the frame after these steps
 ```
 subject_id
 tBodyAcc-mean()-X
