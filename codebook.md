@@ -91,6 +91,5 @@ SITTING
 STANDING
 LAYING
 ```
-- Features are 
 
 * The standard deviations and the means are normalized and bounded within [-1,1]
