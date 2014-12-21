@@ -23,4 +23,4 @@ A file `final.txt` has also been saved in your current directory
 
 
 #Codebook
-You can find the Codebook for this project here [`codebook.R`](https://github.com/keexa/getting_and_cleaning_data/blob/master/codebook.md
+You can find the Codebook for this project here [`codebook.R`](https://github.com/keexa/getting_and_cleaning_data/blob/master/codebook.md)
